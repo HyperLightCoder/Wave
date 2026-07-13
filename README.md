@@ -1,8 +1,14 @@
-# Wave on Pulse
+# OnChain Radio
 
 Live free speech radio permanently archived on PulseChain. Single-page static site — no build step required.
 
 **Live site:** [waveonpulse.com](https://waveonpulse.com)
+
+## Non-Affiliation Statement
+
+This project is independently maintained and is not an official project, product, or branded surface of the Digital Nation, its cabinet offices, or Operator-controlled identities.
+
+Reference to Digital Nation infrastructure, governance materials, or operational systems does not imply affiliation, endorsement, or operational responsibility unless explicitly stated in an authorized governance document.
 
 ## Project structure
 
